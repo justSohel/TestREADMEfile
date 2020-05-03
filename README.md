@@ -64,6 +64,20 @@ If you already created RSS source, and want to run a workflow on that same feed,
 
 They should work as is, but you can modify them in any way. For example, you can add a step to [run any Node.js code](https://docs.pipedream.com/workflows/steps/code/) or use [pre-built functions](https://docs.pipedream.com/workflows/steps/actions/) to send data to other destinations.
 
+<div style="width: 100%">
+    <div align="center" style="background: #2E3748; width: 49%; float: left">
+        <img src="images/rss-email.jpg" alt="">
+        <h4>RSS to Email</h4>
+        Send you a formatted email with new items in the feed
+    </div>
+    <div align="center" style="background: #2E3748; width: 49%; float: left">
+        <img src="images/rss-twitter.jpg" alt="">
+        <h4>RSS to Twitter</h4>
+        <p>Posts a tweet for every new item in an RSS feed</p>
+    </div>
+</div>
+<div style="clear: both"></div>
+
 * [RSS to Email](https://pipedream.com/@dylburger/rss-to-email-p_NMCqyV/readme)
 
 ![](images/rss-email.jpg)
@@ -133,8 +147,6 @@ Generate an RSS feed from HTTP POST requests, retrieve via GET request
 * [RSS to Browserless to S3](https://pipedream.com/@dylburger/rss-to-browserless-to-s3-p_95Cv5z/readme)
 
 ![](images/rss-browserless-s3.jpg)
-
-<p><a href="https://pipedream.com/@dylburger/rss-to-browserless-to-s3-p_95Cv5z/readme" target="_blank"><img src="images/rss-browserless-s3.jpg" alt=""></a></p>
 
 Take a screenshot of every new URL, save to Amazon S3
 

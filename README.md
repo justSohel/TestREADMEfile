@@ -134,6 +134,8 @@ Generate an RSS feed from HTTP POST requests, retrieve via GET request
 
 ![](images/rss-browserless-s3.jpg)
 
+<p><a href="https://pipedream.com/@dylburger/rss-to-browserless-to-s3-p_95Cv5z/readme" target="_blank"><img src="images/rss-browserless-s3.jpg" alt=""></a></p>
+
 Take a screenshot of every new URL, save to Amazon S3
 
 ## SSE and REST APIs

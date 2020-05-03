@@ -67,80 +67,32 @@ They should work as is, but you can modify them in any way. For example, you can
 <div>
 <a href="https://pipedream.com/@dylburger/rss-to-email-p_NMCqyV/readme"><img src="images/rss-to-email.jpg" alt=""></a>
 <a href="https://pipedream.com/@dylan/rss-to-twitter-p_5VCkQ7/readme"><img src="images/rss-to-twitter.jpg" alt=""></a>
-
 </div>
 
-* [RSS to Email](https://pipedream.com/@dylburger/rss-to-email-p_NMCqyV/readme)
+<div>
+<a href="https://pipedream.com/@dylburger/rss-aws-sqs-p_D1CDjB/readme"><img src="images/rss-to-aws-sqs.jpg" alt=""></a>
+<a href="https://pipedream.com/@dylburger/rss-aws-eventbridge-event-bus-p_JZCk29/readme"><img src="images/rss-to-aws-event-bridge.jpg" alt=""></a>
+</div>
 
-![](images/rss-email.jpg)
+<div>
+<a href="https://pipedream.com/@dylburger/rss-aws-lambda-p_ZJC9BG/readme"><img src="images/rss-to-aws-lambda.jpg" alt=""></a>
+<a href="https://pipedream.com/@dylburger/rss-http-request-p_MOCq8K/readme"><img src="images/rss-to-webhook.jpg" alt=""></a>
+</div>
 
-Send you a formatted email with new items in the feed
+<div>
+<a href="https://pipedream.com/@dylburger/rss-slack-p_YyCDyK/readme"><img src="images/rss-to-slack.jpg" alt=""></a>
+<a href="https://pipedream.com/@dylburger/rss-discord-p_7NCWrm/readme"><img src="images/rss-to-discord.jpg" alt=""></a>
+</div>
 
-* [RSS to Twitter](https://pipedream.com/@dylan/rss-to-twitter-p_5VCkQ7/readme)
+<div>
+<a href="https://pipedream.com/@dylburger/rss-telegram-p_PACwrm/readme"><img src="images/rss-to-telegram.jpg" alt=""></a>
+<a href="https://pipedream.com/@dylburger/rss-to-google-sheets-p_ezCqGG/readme"><img src="images/rss-to-google.jpg" alt=""></a>
+</div>
 
-![](images/rss-twitter.jpg)
-
-Posts a tweet for every new item in an RSS feed
-
-* [RSS to AWS SQS](https://pipedream.com/@dylburger/rss-aws-sqs-p_D1CDjB/readme)
-
-![](images/rss-aws-sqs.jpg)
-
-Send new items to an SQS queue
-
-* [RSS to AWS EventBridge](https://pipedream.com/@dylburger/rss-aws-eventbridge-event-bus-p_JZCk29/readme)
-
-![](images/rss-aws-eventbridge.jpg)
-
-Send new items to an event bus
-
-* [RSS to AWS Lambda](https://pipedream.com/@dylburger/rss-aws-lambda-p_ZJC9BG/readme)
-
-![](images/rss-aws-lambda.jpg)
-
-Invoke a Lambda function for every new item using the AWS SDK
-
-* [RSS to Webhook](https://pipedream.com/@dylburger/rss-http-request-p_MOCq8K/readme)
-
-![](images/rss-webhook.jpg)
-
-Send an HTTP POST request with the item in the payload, to a URL you specify
-
-* [RSS to Slack](https://pipedream.com/@dylburger/rss-slack-p_YyCDyK/readme)
-
-![](images/rss-slack.jpg)
-
-Sends a formatted message to Slack
-
-* [RSS to Discord](https://pipedream.com/@dylburger/rss-discord-p_7NCWrm/readme)
-
-![](images/rss-discord.jpg)
-
-Sends a formatted message to Discord
-
-* [RSS to Telegram](https://pipedream.com/@dylburger/rss-telegram-p_PACwrm/readme)
-
-![](images/rss-telegram.jpg)
-
-Sends a formatted message to Telegram
-
-* [RSS to Google Sheets](https://pipedream.com/@dylburger/rss-to-google-sheets-p_ezCqGG/readme)
-
-![](images/rss-google-sheets.jpg)
-
-Add a row in a Google sheet for every new item
-
-* [HTTP to RSS](https://pipedream.com/@dylburger/generate-an-rss-feed-from-http-post-requests-retrieve-via-get-request-p_n1CrQG/readme)
-
-![](images/http-rss.jpg)
-
-Generate an RSS feed from HTTP POST requests, retrieve via GET request
-
-* [RSS to Browserless to S3](https://pipedream.com/@dylburger/rss-to-browserless-to-s3-p_95Cv5z/readme)
-
-![](images/rss-browserless-s3.jpg)
-
-Take a screenshot of every new URL, save to Amazon S3
+<div>
+<a href="https://pipedream.com/@dylburger/generate-an-rss-feed-from-http-post-requests-retrieve-via-get-request-p_n1CrQG/readme"><img src="images/http-to-rss.jpg" alt=""></a>
+<a href="https://pipedream.com/@dylburger/rss-to-browserless-to-s3-p_95Cv5z/readme"><img src="images/rss-to-browserless.jpg" alt=""></a>
+</div>
 
 ## SSE and REST APIs
 

@@ -3,9 +3,9 @@
 <h1>RSS for Hackers</h1>
 <p>Patterns for processing and producing RSS feeds</p>
 <p>
-<img src="images/getting-started.jpg">
-<img src="images/example-workflows.jpg">
-<img src="images/sse-rest-api.jpg">
+<img src="images/getting-started-box.jpg">
+<img src="images/example-workflows-box.jpg">
+<img src="images/sse-rest-api-box.jpg">
 </p>
 </div>
 

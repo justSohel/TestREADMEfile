@@ -7,14 +7,6 @@
 <img src="images/example-workflow.jpg">
 <img src="images/sse-rest-api.jpg">
 </p>
-# RSS for Hackers
-Patterns for processing and producing RSS feeds
-
-* [Getting Started](#-getting-started) -Create an event source from an RSS feed so you can run code on new items
-
-* [Example Workflows](#-example-workflows) -Send an RSS feed to Discord or SQS, trigger a Lambda, run Puppeteer script on every new item, and more
-
-* [SSE + REST API](#-sse-+-rest-api) -Process events in real time using a private SSE stream, or in batch using a REST API
 
 ## Getting Started
 If you want to process an RSS feed programmatically, you have to run code to poll the feed and keep track of items already processed. This isn't hard to write, but it's often not core to your app's logic. **You probably just want to run code on each new item in the feed**.

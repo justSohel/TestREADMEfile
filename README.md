@@ -23,10 +23,10 @@ Pipedream lets you treat an RSS feed as an [event source](https://docs.pipedream
 
 Then, you can process items from your event source in 3 ways:
 * Subscribe to a private SSE stream, which publishes items in real time
-* Trigger a Pipedream workflow for each item, running hosted Node.js code (also real time);
+* Trigger a Pipedream workflow for each item, running hosted Node.js code (also real time)
 * Access items in batch using Pipedream's REST API
 
-To get started,[create a new RSS source in the Pipedream UI](https://pipedream.com/sources?action=create&url=https%3A%2F%2Fgithub.com%2FPipedreamHQ%2Fpipedream%2Fblob%2Fmaster%2Fcomponents%2Frss%2Frss.js&app=none). Name the source and add your feed URL:
+To get started, [create a new RSS source in the Pipedream UI](https://pipedream.com/sources?action=create&url=https%3A%2F%2Fgithub.com%2FPipedreamHQ%2Fpipedream%2Fblob%2Fmaster%2Fcomponents%2Frss%2Frss.js&app=none). Name the source and add your feed URL:
 
 ![](https://rss.pipedream.com/img/rss-source-in-ui.2832e34f.png)
 
@@ -126,7 +126,7 @@ $ curl -H "Authorization: Bearer API_KEY" \
     https://api.pipedream.com/v1/sources/SOURCE_ID/events?n=1
 ```
 
-Note the?n=1query string. You can vary the number of events returned (most recent first) by setting this param.
+Note the ?n=1query string. You can vary the number of events returned (most recent first) by setting this param.
 
 ## Questions or Feedback?
 

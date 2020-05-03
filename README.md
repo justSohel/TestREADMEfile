@@ -1,6 +1,7 @@
 <p align="center">
 <img src="images/rss.png">
 </p>
+<h1 align="center">RSS for Hackers</h1>
 
 # RSS for Hackers
 Patterns for processing and producing RSS feeds

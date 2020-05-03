@@ -1,14 +1,13 @@
-<p align="center">
+<div align="center">
 <img src="images/rss.png">
-</p>
-<h1 align="center">RSS for Hackers</h1>
+<h1>RSS for Hackers</h1>
 <p>Patterns for processing and producing RSS feeds</p>
-<p align="center">
+<p>
 <img src="images/getting-started.jpg">
 <img src="images/example-workflow.jpg">
 <img src="images/sse-rest-api.jpg">
 </p>
-
+</div>
 ## Getting Started
 If you want to process an RSS feed programmatically, you have to run code to poll the feed and keep track of items already processed. This isn't hard to write, but it's often not core to your app's logic. **You probably just want to run code on each new item in the feed**.
 ```

@@ -133,3 +133,9 @@ Note the ?n=1query string. You can vary the number of events returned (most rece
 Please [reach out](https://docs.pipedream.com/support/) with any questions or feedback. We're happy to add other RSS-specific developer resources to this list, and we'd love to hear what can be improved about event sources or the example workflows.
 
 <hr>
+
+Pipedream, Inc. — San Francisco, CA
+
+<p align="right">
+[twitter](https://twitter.com/PipedreamHQ) [Community](https://pipedream.com/community) [Docs](https://docs.pipedream.com/) [Terms](https://pipedream.com/terms) [Privacy](https://pipedream.com/privacy)
+</p>

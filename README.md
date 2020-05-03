@@ -1,6 +1,8 @@
-<p align="center">Hello</p>
+<p align="center">
+<img src="images/rss.png">
+</p>
 
-#RSS for Hackers
+# RSS for Hackers
 Patterns for processing and producing RSS feeds
 
 * [Getting Started](#-getting-started) -Create an event source from an RSS feed so you can run code on new items

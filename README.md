@@ -11,7 +11,7 @@ Patterns for processing and producing RSS feeds
 
 * [SSE + REST API](#-sse-+-rest-api) -Process events in real time using a private SSE stream, or in batch using a REST API
 
-##Getting Started
+## Getting Started
 If you want to process an RSS feed programmatically, you have to run code to poll the feed and keep track of items already processed. This isn't hard to write, but it's often not core to your app's logic. **You probably just want to run code on each new item in the feed**.
 ```
 // Don't care how I get feed
@@ -55,7 +55,7 @@ Then, you can trigger a [Pipedream workflow](https://pipedream.com/new)— a ser
 
 or process items in your own app using [the SSE stream or REST API](https://rss.pipedream.com/#apis) tied to your source.
 
-##Example Workflows
+## Example Workflows
 
 Workflows are linear sequences of steps — just Node.js code —hosted and run by Pipedream.
 
@@ -139,7 +139,7 @@ Generate an RSS feed from HTTP POST requests, retrieve via GET request
 
 Take a screenshot of every new URL, save to Amazon S3
 
-##SSE and REST APIs
+## SSE and REST APIs
 
 Pipedream provides two other interfaces for accessing events produced by sources: 
 
@@ -148,7 +148,7 @@ Pipedream provides two other interfaces for accessing events produced by sources
 
 This way, you can run an event source in Pipedream but access its events in your own application.
 
-###SSE
+### SSE
 
 SSE — [Server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events) — defines a spec for how servers can send events directly to clients that subscribe to those events, similar to [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) and related server-to-client push technologies. If you listen for new items using SSE, **you can run any code in your own application, in real time, as soon as those items are added to the feed**.
 
@@ -161,7 +161,7 @@ $ curl -H "Authorization: Bearer API_KEY" \
 
 [See the Pipedream SSE docs](https://docs.pipedream.com/api/sse) for more information on authentication, example Node code, and other details on the interface.
 
-###REST API
+### REST API
 
 If you prefer to process items from an RSS feed in batch, you can fetch them using [Pipedream's REST API](https://docs.pipedream.com/api/rest/) :
 
@@ -172,7 +172,7 @@ $ curl -H "Authorization: Bearer API_KEY" \
 
 Note the?n=1query string. You can vary the number of events returned (most recent first) by setting this param.
 
-##Questions or Feedback?
+## Questions or Feedback?
 
 Please [reach out](https://docs.pipedream.com/support/) with any questions or feedback. We're happy to add other RSS-specific developer resources to this list, and we'd love to hear what can be improved about event sources or the example workflows.
 

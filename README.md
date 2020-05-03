@@ -134,8 +134,4 @@ Please [reach out](https://docs.pipedream.com/support/) with any questions or fe
 
 <hr>
 
-Pipedream, Inc. — San Francisco, CA
-
-<p align="right">
-[twitter](https://twitter.com/PipedreamHQ) [Community](https://pipedream.com/community) [Docs](https://docs.pipedream.com/) [Terms](https://pipedream.com/terms) [Privacy](https://pipedream.com/privacy)
-</p>
+Pipedream, Inc. — San Francisco, CA [twitter](https://twitter.com/PipedreamHQ) [Community](https://pipedream.com/community) [Docs](https://docs.pipedream.com/) [Terms](https://pipedream.com/terms) [Privacy](https://pipedream.com/privacy)

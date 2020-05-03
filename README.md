@@ -4,7 +4,7 @@
 <p>Patterns for processing and producing RSS feeds</p>
 <p>
 <img src="images/getting-started.jpg">
-<img src="images/example-workflow.jpg">
+<img src="images/example-workflows.jpg">
 <img src="images/sse-rest-api.jpg">
 </p>
 </div>

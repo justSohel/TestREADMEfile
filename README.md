@@ -2,6 +2,7 @@
 <img src="images/rss.png">
 </p>
 <h1 align="center">RSS for Hackers</h1>
+<p>Patterns for processing and producing RSS feeds</p>
 <p align="center">
 <img src="images/getting-started.jpg">
 <img src="images/example-workflow.jpg">
